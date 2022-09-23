@@ -2,13 +2,13 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-    "scripts": {
+  "scripts": {
     "dev": "next dev",
     "build": "next build && --output public",
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.2.3",
+    "next": "^12.3.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.2.0",
